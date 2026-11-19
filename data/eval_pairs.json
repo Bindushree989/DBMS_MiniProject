@@ -1,0 +1,1442 @@
+[
+ {
+  "id": 1,
+  "truth_item_id": 126,
+  "query": {
+   "description": "I lost my navy satchel. It has a worn-out name label and shiny strips on the shoulder straps. Last seen near BMTC Bus - Route 500D.",
+   "category_id": 3,
+   "color": "navy",
+   "brand": null,
+   "location_id": null,
+   "lost_at": "2026-10-08T18:23:06.719Z"
+  }
+ },
+ {
+  "id": 2,
+  "truth_item_id": 218,
+  "query": {
+   "description": "I lost my olive Puma hoodie. It has the zipper is jammed. Last seen near College Main Library.",
+   "category_id": 8,
+   "color": "olive",
+   "brand": "Puma",
+   "location_id": 7,
+   "lost_at": "2026-07-05T00:58:34.016Z"
+  }
+ },
+ {
+  "id": 3,
+  "truth_item_id": 243,
+  "query": {
+   "description": "Looking for my gray HP laptop - the charger tied up with a band.",
+   "category_id": 5,
+   "color": "gray",
+   "brand": "HP",
+   "location_id": 15,
+   "lost_at": "2026-08-17T12:08:27.453Z"
+  }
+ },
+ {
+  "id": 4,
+  "truth_item_id": 278,
+  "query": {
+   "description": "I lost my steel flask. It has a rope handle on the lid. Last seen near College CSE Block.",
+   "category_id": 10,
+   "color": "steel",
+   "brand": null,
+   "location_id": 8,
+   "lost_at": "2026-08-14T16:45:43.505Z"
+  }
+ },
+ {
+  "id": 5,
+  "truth_item_id": 696,
+  "query": {
+   "description": "I lost my Adidas scarf. It has a medium size label. Last seen near Cab - City Rides.",
+   "category_id": 8,
+   "color": null,
+   "brand": "Adidas",
+   "location_id": 2,
+   "lost_at": "2026-09-27T13:48:26.359Z"
+  }
+ },
+ {
+  "id": 6,
+  "truth_item_id": 282,
+  "query": {
+   "description": "Missing: headset. A pink rubber case. Last seen near Namma Metro - MG Road.",
+   "category_id": 6,
+   "color": null,
+   "brand": null,
+   "location_id": 1,
+   "lost_at": "2026-06-21T23:16:56.973Z"
+  }
+ },
+ {
+  "id": 7,
+  "truth_item_id": 601,
+  "query": {
+   "description": "Please help, my mobile is gone. The tempered glass on the screen is broken.",
+   "category_id": null,
+   "color": "silver",
+   "brand": null,
+   "location_id": 9,
+   "lost_at": "2026-08-11T04:37:49.572Z"
+  }
+ },
+ {
+  "id": 8,
+  "truth_item_id": 332,
+  "query": {
+   "description": "Looking for my white hoodie - some tissues left inside the pocket and woolly fur inside.",
+   "category_id": 8,
+   "color": "white",
+   "brand": null,
+   "location_id": 14,
+   "lost_at": "2026-10-09T16:35:35.817Z"
+  }
+ },
+ {
+  "id": 9,
+  "truth_item_id": 662,
+  "query": {
+   "description": "Missing: silver Godrej key. Three keys plus a remote. Last seen near Cubbon Park.",
+   "category_id": 4,
+   "color": "silver",
+   "brand": "Godrej",
+   "location_id": null,
+   "lost_at": "2026-07-31T09:42:49.800Z"
+  }
+ },
+ {
+  "id": 10,
+  "truth_item_id": 565,
+  "query": {
+   "description": "Missing: mobile. One corner is dented. Last seen near Namma Metro - Indiranagar.",
+   "category_id": 1,
+   "color": null,
+   "brand": null,
+   "location_id": 6,
+   "lost_at": "2026-10-08T22:18:36.027Z"
+  }
+ },
+ {
+  "id": 11,
+  "truth_item_id": 372,
+  "query": {
+   "description": "Please help, my key bunch is gone. A tag showing my room number.",
+   "category_id": 4,
+   "color": null,
+   "brand": null,
+   "location_id": 7,
+   "lost_at": "2026-10-10T02:01:59.622Z"
+  }
+ },
+ {
+  "id": 12,
+  "truth_item_id": 806,
+  "query": {
+   "description": "Looking for my pink airpods - a pink rubber case.",
+   "category_id": 6,
+   "color": "pink",
+   "brand": null,
+   "location_id": 5,
+   "lost_at": "2026-06-13T18:53:31.546Z"
+  }
+ },
+ {
+  "id": 13,
+  "truth_item_id": 317,
+  "query": {
+   "description": "Looking for my red brolly - flowers printed on it.",
+   "category_id": null,
+   "color": "red",
+   "brand": null,
+   "location_id": 5,
+   "lost_at": "2026-09-29T12:16:49.531Z"
+  }
+ },
+ {
+  "id": 14,
+  "truth_item_id": 740,
+  "query": {
+   "description": "Missing: Fossil band. A brown strap that is worn out. Last seen near College CSE Block.",
+   "category_id": 9,
+   "color": null,
+   "brand": "Fossil",
+   "location_id": 8,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 15,
+  "truth_item_id": 16,
+  "query": {
+   "description": "Missing: white OnePlus handset. One corner is dented.",
+   "category_id": 1,
+   "color": null,
+   "brand": "OnePlus",
+   "location_id": 3,
+   "lost_at": "2026-06-15T08:02:47.245Z"
+  }
+ },
+ {
+  "id": 16,
+  "truth_item_id": 69,
+  "query": {
+   "description": "Missing: black Casio chain. A brown strap that is worn out. Last seen near Cab - Airport Route.",
+   "category_id": 9,
+   "color": null,
+   "brand": "Casio",
+   "location_id": 1,
+   "lost_at": "2026-06-29T22:14:56.376Z"
+  }
+ },
+ {
+  "id": 17,
+  "truth_item_id": 392,
+  "query": {
+   "description": "I lost my thermos. It has a dent at the base and a sports cap lid.",
+   "category_id": 10,
+   "color": null,
+   "brand": null,
+   "location_id": 4,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 18,
+  "truth_item_id": 623,
+  "query": {
+   "description": "Looking for my black water bottle - my name in marker pen and a dent at the base. Last seen near College CSE Block.",
+   "category_id": 10,
+   "color": "black",
+   "brand": null,
+   "location_id": 8,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 19,
+  "truth_item_id": 522,
+  "query": {
+   "description": "Missing: gold Godrej keys. A red fob.",
+   "category_id": 4,
+   "color": null,
+   "brand": "Godrej",
+   "location_id": 9,
+   "lost_at": "2026-10-09T05:22:22.810Z"
+  }
+ },
+ {
+  "id": 20,
+  "truth_item_id": 532,
+  "query": {
+   "description": "I lost my red brolly. It has a push button to open.",
+   "category_id": 11,
+   "color": "red",
+   "brand": null,
+   "location_id": 8,
+   "lost_at": "2026-09-04T10:47:36.544Z"
+  }
+ },
+ {
+  "id": 21,
+  "truth_item_id": 629,
+  "query": {
+   "description": "Missing: Honda keys. A heart shaped charm.",
+   "category_id": 4,
+   "color": null,
+   "brand": "Honda",
+   "location_id": 6,
+   "lost_at": "2026-07-29T20:40:17.540Z"
+  }
+ },
+ {
+  "id": 22,
+  "truth_item_id": 746,
+  "query": {
+   "description": "Looking for my bottle - a sports cap lid.",
+   "category_id": 10,
+   "color": null,
+   "brand": null,
+   "location_id": 10,
+   "lost_at": "2026-08-07T16:15:00.189Z"
+  }
+ },
+ {
+  "id": 23,
+  "truth_item_id": 67,
+  "query": {
+   "description": "I lost my bag. It has a side holder for a water bottle and a worn-out name label. Last seen near Office Reception - Koramangala.",
+   "category_id": 3,
+   "color": null,
+   "brand": null,
+   "location_id": null,
+   "lost_at": "2026-08-15T23:50:36.691Z"
+  }
+ },
+ {
+  "id": 24,
+  "truth_item_id": 848,
+  "query": {
+   "description": "Missing: white mobile. A finger holder grip at the back and a sticker stuck behind it.",
+   "category_id": 1,
+   "color": "white",
+   "brand": null,
+   "location_id": 15,
+   "lost_at": "2026-06-16T20:05:15.162Z"
+  }
+ },
+ {
+  "id": 25,
+  "truth_item_id": 230,
+  "query": {
+   "description": "Please help, my identity card is gone. Plastic laminated and a clip holder. Last seen near BMTC Bus - Route 500D.",
+   "category_id": 7,
+   "color": "blue",
+   "brand": null,
+   "location_id": 3,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 26,
+  "truth_item_id": 374,
+  "query": {
+   "description": "Looking for my jacket - some tissues left inside the pocket.",
+   "category_id": null,
+   "color": null,
+   "brand": null,
+   "location_id": 1,
+   "lost_at": "2026-09-18T11:24:53.496Z"
+  }
+ },
+ {
+  "id": 27,
+  "truth_item_id": 594,
+  "query": {
+   "description": "I lost my black purse. It has my initials printed on it.",
+   "category_id": null,
+   "color": null,
+   "brand": null,
+   "location_id": 9,
+   "lost_at": "2026-10-11T03:51:38.665Z"
+  }
+ },
+ {
+  "id": 28,
+  "truth_item_id": 657,
+  "query": {
+   "description": "Please help, my bag is gone. A side holder for a water bottle and a worn-out name label. Last seen near Boys Hostel Block A.",
+   "category_id": 3,
+   "color": "brown",
+   "brand": null,
+   "location_id": 9,
+   "lost_at": "2026-08-29T13:07:58.108Z"
+  }
+ },
+ {
+  "id": 29,
+  "truth_item_id": 888,
+  "query": {
+   "description": "Please help, my gym bag is gone. The front pocket zipper is broken.",
+   "category_id": 3,
+   "color": null,
+   "brand": null,
+   "location_id": 3,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 30,
+  "truth_item_id": 191,
+  "query": {
+   "description": "Missing: Oppo mobile. A finger holder grip at the back.",
+   "category_id": 1,
+   "color": null,
+   "brand": "Oppo",
+   "location_id": 9,
+   "lost_at": "2026-07-08T14:19:21.039Z"
+  }
+ },
+ {
+  "id": 31,
+  "truth_item_id": 44,
+  "query": {
+   "description": "Missing: silver Hyundai car key. A heart shaped charm. Last seen near Tech Park Cafeteria - Whitefield.",
+   "category_id": 4,
+   "color": "silver",
+   "brand": "Hyundai",
+   "location_id": 12,
+   "lost_at": "2026-07-12T17:01:43.577Z"
+  }
+ },
+ {
+  "id": 32,
+  "truth_item_id": 148,
+  "query": {
+   "description": "Please help, my mobile is gone. The tempered glass on the screen is broken. Last seen near Office Reception - Koramangala.",
+   "category_id": 1,
+   "color": "gold",
+   "brand": null,
+   "location_id": 13,
+   "lost_at": "2026-09-19T15:55:18.568Z"
+  }
+ },
+ {
+  "id": 33,
+  "truth_item_id": 253,
+  "query": {
+   "description": "I lost my green driving license. It has plastic laminated and a clip holder.",
+   "category_id": null,
+   "color": "green",
+   "brand": null,
+   "location_id": 5,
+   "lost_at": "2026-10-01T15:11:24.445Z"
+  }
+ },
+ {
+  "id": 34,
+  "truth_item_id": 4,
+  "query": {
+   "description": "I lost my white Sony headphones. It has the wire is tangled and the case is scratched.",
+   "category_id": 6,
+   "color": "white",
+   "brand": "Sony",
+   "location_id": 8,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 35,
+  "truth_item_id": 20,
+  "query": {
+   "description": "Looking for my laptop - a webcam shutter and coding stickers on the cover.",
+   "category_id": 5,
+   "color": null,
+   "brand": null,
+   "location_id": 13,
+   "lost_at": "2026-07-12T05:27:53.960Z"
+  }
+ },
+ {
+  "id": 36,
+  "truth_item_id": 502,
+  "query": {
+   "description": "Missing: headphones. One tip is gone.",
+   "category_id": 6,
+   "color": null,
+   "brand": null,
+   "location_id": 8,
+   "lost_at": "2026-10-09T07:15:45.563Z"
+  }
+ },
+ {
+  "id": 37,
+  "truth_item_id": 31,
+  "query": {
+   "description": "Looking for my headset - one tip is gone.",
+   "category_id": 6,
+   "color": null,
+   "brand": null,
+   "location_id": 3,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 38,
+  "truth_item_id": 707,
+  "query": {
+   "description": "I lost my handset. It has a neck strap tied to it and a sticker stuck behind it.",
+   "category_id": 1,
+   "color": null,
+   "brand": null,
+   "location_id": 10,
+   "lost_at": "2026-10-08T18:05:02.707Z"
+  }
+ },
+ {
+  "id": 39,
+  "truth_item_id": 808,
+  "query": {
+   "description": "Looking for my rucksack - shiny strips on the shoulder straps.",
+   "category_id": 3,
+   "color": null,
+   "brand": null,
+   "location_id": 15,
+   "lost_at": "2026-08-28T18:33:26.587Z"
+  }
+ },
+ {
+  "id": 40,
+  "truth_item_id": 849,
+  "query": {
+   "description": "Missing: red Yamaha key bunch. A red fob. Last seen near Tech Park Cafeteria - Whitefield.",
+   "category_id": 4,
+   "color": null,
+   "brand": "Yamaha",
+   "location_id": 12,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 41,
+  "truth_item_id": 80,
+  "query": {
+   "description": "Please help, my phone is gone. A neck strap tied to it. Last seen near Tech Park Cafeteria - Whitefield.",
+   "category_id": 1,
+   "color": "red",
+   "brand": "OnePlus",
+   "location_id": 12,
+   "lost_at": "2026-10-11T18:41:46.550Z"
+  }
+ },
+ {
+  "id": 42,
+  "truth_item_id": 684,
+  "query": {
+   "description": "I lost my blue Nike sling. It has a worn-out name label. Last seen near Boys Hostel Block A.",
+   "category_id": 3,
+   "color": "blue",
+   "brand": "Nike",
+   "location_id": 15,
+   "lost_at": "2026-09-05T14:42:36.312Z"
+  }
+ },
+ {
+  "id": 43,
+  "truth_item_id": 87,
+  "query": {
+   "description": "Please help, my key is gone. A small opener attached and a tag showing my room number. Last seen near Cab - City Rides.",
+   "category_id": 4,
+   "color": "black",
+   "brand": null,
+   "location_id": 2,
+   "lost_at": "2026-07-14T20:49:26.845Z"
+  }
+ },
+ {
+  "id": 44,
+  "truth_item_id": 886,
+  "query": {
+   "description": "Looking for my black macbook - coding stickers on the cover.",
+   "category_id": 5,
+   "color": "black",
+   "brand": null,
+   "location_id": 7,
+   "lost_at": "2026-09-25T07:45:01.673Z"
+  }
+ },
+ {
+  "id": 45,
+  "truth_item_id": 803,
+  "query": {
+   "description": "Missing: Skybags sling. A teddy bear hanging from the zip.",
+   "category_id": 3,
+   "color": null,
+   "brand": "Skybags",
+   "location_id": 6,
+   "lost_at": "2026-07-01T00:39:06.900Z"
+  }
+ },
+ {
+  "id": 46,
+  "truth_item_id": 675,
+  "query": {
+   "description": "Missing: laptop. A laptop sleeve.",
+   "category_id": 5,
+   "color": null,
+   "brand": null,
+   "location_id": 6,
+   "lost_at": "2026-07-22T09:18:36.413Z"
+  }
+ },
+ {
+  "id": 47,
+  "truth_item_id": 245,
+  "query": {
+   "description": "Please help, my sunglasses is gone. A wire frame. Last seen near College CSE Block.",
+   "category_id": 12,
+   "color": "blue",
+   "brand": "Oakley",
+   "location_id": 9,
+   "lost_at": "2026-08-13T17:54:48.384Z"
+  }
+ },
+ {
+  "id": 48,
+  "truth_item_id": 774,
+  "query": {
+   "description": "Missing: blue sling. A worn-out name label.",
+   "category_id": 3,
+   "color": "blue",
+   "brand": null,
+   "location_id": 6,
+   "lost_at": "2026-08-22T17:23:31.525Z"
+  }
+ },
+ {
+  "id": 49,
+  "truth_item_id": 15,
+  "query": {
+   "description": "Please help, my laptop is gone. Scratched around the touchpad and a webcam shutter.",
+   "category_id": 5,
+   "color": null,
+   "brand": null,
+   "location_id": 9,
+   "lost_at": "2026-08-22T07:25:07.452Z"
+  }
+ },
+ {
+  "id": 50,
+  "truth_item_id": 510,
+  "query": {
+   "description": "Please help, my water bottle is gone. A rope handle on the lid. Last seen near Namma Metro - Indiranagar.",
+   "category_id": 10,
+   "color": "green",
+   "brand": null,
+   "location_id": 6,
+   "lost_at": "2026-08-12T18:56:37.620Z"
+  }
+ },
+ {
+  "id": 51,
+  "truth_item_id": 195,
+  "query": {
+   "description": "Missing: black Apple watch. A scratched dial and a letter carved behind. Last seen near College Main Library.",
+   "category_id": 9,
+   "color": "black",
+   "brand": "Apple",
+   "location_id": 7,
+   "lost_at": "2026-08-13T17:42:01.930Z"
+  }
+ },
+ {
+  "id": 52,
+  "truth_item_id": 593,
+  "query": {
+   "description": "Looking for my black Wildcraft wallet - a metro card inside and frayed along the fold.",
+   "category_id": 2,
+   "color": null,
+   "brand": "Wildcraft",
+   "location_id": 9,
+   "lost_at": "2026-09-12T17:56:02.378Z"
+  }
+ },
+ {
+  "id": 53,
+  "truth_item_id": 122,
+  "query": {
+   "description": "Missing: Popy umbrella. A velcro tie and a wooden hook handle. Last seen near Office Reception - Koramangala.",
+   "category_id": 11,
+   "color": null,
+   "brand": "Popy",
+   "location_id": null,
+   "lost_at": "2026-07-24T16:42:55.929Z"
+  }
+ },
+ {
+  "id": 54,
+  "truth_item_id": 270,
+  "query": {
+   "description": "Please help, my notebook is gone. A laptop sleeve. Last seen near Boys Hostel Block A.",
+   "category_id": 5,
+   "color": null,
+   "brand": null,
+   "location_id": 3,
+   "lost_at": "2026-08-15T06:39:17.376Z"
+  }
+ },
+ {
+  "id": 55,
+  "truth_item_id": 468,
+  "query": {
+   "description": "Looking for my laptop - a webcam shutter.",
+   "category_id": 5,
+   "color": null,
+   "brand": null,
+   "location_id": null,
+   "lost_at": "2026-10-10T03:02:47.340Z"
+  }
+ },
+ {
+  "id": 56,
+  "truth_item_id": 553,
+  "query": {
+   "description": "Missing: notebook. The charger tied up with a band. Last seen near Boys Hostel Block A.",
+   "category_id": 5,
+   "color": null,
+   "brand": null,
+   "location_id": 10,
+   "lost_at": "2026-10-06T19:52:24.018Z"
+  }
+ },
+ {
+  "id": 57,
+  "truth_item_id": 531,
+  "query": {
+   "description": "Please help, my billfold is gone. My initials printed on it.",
+   "category_id": 2,
+   "color": "red",
+   "brand": null,
+   "location_id": 10,
+   "lost_at": "2026-07-31T12:43:17.397Z"
+  }
+ },
+ {
+  "id": 58,
+  "truth_item_id": 284,
+  "query": {
+   "description": "Missing: satchel. Shiny strips on the shoulder straps.",
+   "category_id": 3,
+   "color": null,
+   "brand": null,
+   "location_id": 5,
+   "lost_at": "2026-07-21T00:25:28.216Z"
+  }
+ },
+ {
+  "id": 59,
+  "truth_item_id": 146,
+  "query": {
+   "description": "Missing: maroon hoodie. A medium size label.",
+   "category_id": 8,
+   "color": "maroon",
+   "brand": null,
+   "location_id": 1,
+   "lost_at": "2026-10-04T04:05:58.328Z"
+  }
+ },
+ {
+  "id": 60,
+  "truth_item_id": 173,
+  "query": {
+   "description": "Please help, my airpods is gone. A pink rubber case and the case is scratched. Last seen near Cubbon Park.",
+   "category_id": 6,
+   "color": "white",
+   "brand": "Samsung",
+   "location_id": null,
+   "lost_at": "2026-08-24T15:45:32.934Z"
+  }
+ },
+ {
+  "id": 61,
+  "truth_item_id": 467,
+  "query": {
+   "description": "I lost my gold mobile. It has a flip case with space for cards.",
+   "category_id": 1,
+   "color": null,
+   "brand": null,
+   "location_id": 15,
+   "lost_at": "2026-06-17T19:08:01.689Z"
+  }
+ },
+ {
+  "id": 62,
+  "truth_item_id": 36,
+  "query": {
+   "description": "Please help, my papers is gone. Semester marksheets in it.",
+   "category_id": 13,
+   "color": null,
+   "brand": null,
+   "location_id": null,
+   "lost_at": "2026-07-19T17:53:29.515Z"
+  }
+ },
+ {
+  "id": 63,
+  "truth_item_id": 303,
+  "query": {
+   "description": "I lost my billfold. It has a coin pouch with a zip.",
+   "category_id": 2,
+   "color": null,
+   "brand": null,
+   "location_id": 10,
+   "lost_at": "2026-10-10T13:03:41.571Z"
+  }
+ },
+ {
+  "id": 64,
+  "truth_item_id": 213,
+  "query": {
+   "description": "I lost my blue library card. It has a blue neck strap. Last seen near Tech Park Cafeteria - Whitefield.",
+   "category_id": 7,
+   "color": null,
+   "brand": null,
+   "location_id": 12,
+   "lost_at": "2026-08-22T12:06:13.400Z"
+  }
+ },
+ {
+  "id": 65,
+  "truth_item_id": 279,
+  "query": {
+   "description": "I lost my red Xiaomi mobile. It has a flip case with space for cards. Last seen near Namma Metro - Indiranagar.",
+   "category_id": 1,
+   "color": null,
+   "brand": "Xiaomi",
+   "location_id": 6,
+   "lost_at": "2026-07-06T23:15:01.409Z"
+  }
+ },
+ {
+  "id": 66,
+  "truth_item_id": 462,
+  "query": {
+   "description": "I lost my orange bottle. It has my name in marker pen.",
+   "category_id": 10,
+   "color": null,
+   "brand": null,
+   "location_id": 3,
+   "lost_at": "2026-10-10T03:01:54.941Z"
+  }
+ },
+ {
+  "id": 67,
+  "truth_item_id": 850,
+  "query": {
+   "description": "Missing: navy Puma bag. A worn-out name label and a side holder for a water bottle.",
+   "category_id": 3,
+   "color": "navy",
+   "brand": "Puma",
+   "location_id": 9,
+   "lost_at": "2026-07-18T23:29:51.447Z"
+  }
+ },
+ {
+  "id": 68,
+  "truth_item_id": 242,
+  "query": {
+   "description": "I lost my black Realme phone. It has a clear rubber cover. Last seen near Cubbon Park.",
+   "category_id": 1,
+   "color": null,
+   "brand": "Realme",
+   "location_id": 7,
+   "lost_at": "2026-06-24T04:07:41.293Z"
+  }
+ },
+ {
+  "id": 69,
+  "truth_item_id": 719,
+  "query": {
+   "description": "Please help, my keys is gone. A tag showing my room number.",
+   "category_id": 4,
+   "color": "black",
+   "brand": null,
+   "location_id": 2,
+   "lost_at": "2026-07-20T08:45:51.572Z"
+  }
+ },
+ {
+  "id": 70,
+  "truth_item_id": 496,
+  "query": {
+   "description": "Missing: olive coat. The college logo printed on it.",
+   "category_id": 8,
+   "color": "olive",
+   "brand": null,
+   "location_id": 2,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 71,
+  "truth_item_id": 63,
+  "query": {
+   "description": "I lost my black Hyundai bike key. It has a red fob.",
+   "category_id": 4,
+   "color": "black",
+   "brand": "Hyundai",
+   "location_id": 10,
+   "lost_at": "2026-06-23T14:14:22.768Z"
+  }
+ },
+ {
+  "id": 72,
+  "truth_item_id": 444,
+  "query": {
+   "description": "Please help, my notebook is gone. Scratched around the touchpad. Last seen near Namma Metro - Indiranagar.",
+   "category_id": 5,
+   "color": "gray",
+   "brand": "Lenovo",
+   "location_id": 6,
+   "lost_at": "2026-09-22T23:44:25.786Z"
+  }
+ },
+ {
+  "id": 73,
+  "truth_item_id": 670,
+  "query": {
+   "description": "Missing: gray Zara scarf. The college logo printed on it and the zipper is jammed. Last seen near Office Reception - Koramangala.",
+   "category_id": 8,
+   "color": "gray",
+   "brand": "Zara",
+   "location_id": null,
+   "lost_at": "2026-09-17T01:15:03.325Z"
+  }
+ },
+ {
+  "id": 74,
+  "truth_item_id": 260,
+  "query": {
+   "description": "Missing: white headphones. One tip is gone and a pink rubber case.",
+   "category_id": null,
+   "color": "white",
+   "brand": null,
+   "location_id": 13,
+   "lost_at": "2026-09-01T18:50:05.522Z"
+  }
+ },
+ {
+  "id": 75,
+  "truth_item_id": 725,
+  "query": {
+   "description": "Missing: mobile. One corner is dented. Last seen near Cubbon Park.",
+   "category_id": 1,
+   "color": null,
+   "brand": null,
+   "location_id": 14,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 76,
+  "truth_item_id": 181,
+  "query": {
+   "description": "I lost my green Hydro Flask bottle. It has a rope handle on the lid.",
+   "category_id": 10,
+   "color": "green",
+   "brand": null,
+   "location_id": 14,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 77,
+  "truth_item_id": 732,
+  "query": {
+   "description": "I lost my Safari backpack. It has the front pocket zipper is broken and shiny strips on the shoulder straps.",
+   "category_id": 3,
+   "color": null,
+   "brand": "Safari",
+   "location_id": 3,
+   "lost_at": "2026-07-24T18:22:20.043Z"
+  }
+ },
+ {
+  "id": 78,
+  "truth_item_id": 413,
+  "query": {
+   "description": "Looking for my green Fastrack umbrella - a broken spoke. Last seen near Cubbon Park.",
+   "category_id": 11,
+   "color": "green",
+   "brand": null,
+   "location_id": 14,
+   "lost_at": "2026-06-30T23:46:16.879Z"
+  }
+ },
+ {
+  "id": 79,
+  "truth_item_id": 388,
+  "query": {
+   "description": "Please help, my debit card is gone. Plastic laminated. Last seen near Girls Hostel Block B.",
+   "category_id": null,
+   "color": null,
+   "brand": null,
+   "location_id": 11,
+   "lost_at": "2026-08-13T08:43:35.130Z"
+  }
+ },
+ {
+  "id": 80,
+  "truth_item_id": 387,
+  "query": {
+   "description": "Please help, my passport is gone. My cv at the front.",
+   "category_id": 13,
+   "color": "transparent",
+   "brand": null,
+   "location_id": 15,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 81,
+  "truth_item_id": 660,
+  "query": {
+   "description": "Missing: navy muffler. Woolly fur inside. Last seen near College Canteen.",
+   "category_id": 8,
+   "color": null,
+   "brand": null,
+   "location_id": 9,
+   "lost_at": "2026-10-09T07:49:26.035Z"
+  }
+ },
+ {
+  "id": 82,
+  "truth_item_id": 184,
+  "query": {
+   "description": "Please help, my phone is gone. The tempered glass on the screen is broken.",
+   "category_id": 1,
+   "color": "red",
+   "brand": "Google",
+   "location_id": 13,
+   "lost_at": "2026-08-29T16:57:35.979Z"
+  }
+ },
+ {
+  "id": 83,
+  "truth_item_id": 700,
+  "query": {
+   "description": "Please help, my water bottle is gone. Some stickers on the body.",
+   "category_id": 10,
+   "color": "steel",
+   "brand": null,
+   "location_id": 15,
+   "lost_at": "2026-09-28T03:57:02.660Z"
+  }
+ },
+ {
+  "id": 84,
+  "truth_item_id": 504,
+  "query": {
+   "description": "Please help, my driving license is gone. My photo on the front. Last seen near Boys Hostel Block A.",
+   "category_id": 7,
+   "color": "blue",
+   "brand": null,
+   "location_id": 10,
+   "lost_at": "2026-10-04T09:24:55.872Z"
+  }
+ },
+ {
+  "id": 85,
+  "truth_item_id": 136,
+  "query": {
+   "description": "Looking for my red Fastrack wallet - a coin pouch with a zip. Last seen near Boys Hostel Block A.",
+   "category_id": 2,
+   "color": "red",
+   "brand": "Fastrack",
+   "location_id": 10,
+   "lost_at": "2026-06-29T00:35:55.949Z"
+  }
+ },
+ {
+  "id": 86,
+  "truth_item_id": 613,
+  "query": {
+   "description": "I lost my blue identity card. It has a clip holder.",
+   "category_id": 7,
+   "color": "blue",
+   "brand": null,
+   "location_id": 15,
+   "lost_at": "2026-10-07T23:22:33.407Z"
+  }
+ },
+ {
+  "id": 87,
+  "truth_item_id": 727,
+  "query": {
+   "description": "Missing: red earphones. The wire is tangled and it is the neckband type.",
+   "category_id": 6,
+   "color": "red",
+   "brand": null,
+   "location_id": 3,
+   "lost_at": "2026-09-15T05:53:10.003Z"
+  }
+ },
+ {
+  "id": 88,
+  "truth_item_id": 166,
+  "query": {
+   "description": "Please help, my earbuds is gone. It is the neckband type and a pink rubber case.",
+   "category_id": 6,
+   "color": "red",
+   "brand": null,
+   "location_id": 3,
+   "lost_at": "2026-09-03T05:55:25.732Z"
+  }
+ },
+ {
+  "id": 89,
+  "truth_item_id": 94,
+  "query": {
+   "description": "Please help, my bag is gone. A teddy bear hanging from the zip and shiny strips on the shoulder straps.",
+   "category_id": 3,
+   "color": null,
+   "brand": null,
+   "location_id": 11,
+   "lost_at": "2026-07-25T07:11:29.967Z"
+  }
+ },
+ {
+  "id": 90,
+  "truth_item_id": 687,
+  "query": {
+   "description": "Please help, my laptop is gone. The left corner is dented. Last seen near Office Reception - Koramangala.",
+   "category_id": null,
+   "color": null,
+   "brand": "HP",
+   "location_id": 13,
+   "lost_at": "2026-08-25T09:58:50.112Z"
+  }
+ },
+ {
+  "id": 91,
+  "truth_item_id": 205,
+  "query": {
+   "description": "Looking for my silver key - a small opener attached and a red fob.",
+   "category_id": null,
+   "color": "silver",
+   "brand": null,
+   "location_id": 10,
+   "lost_at": "2026-10-09T19:28:55.928Z"
+  }
+ },
+ {
+  "id": 92,
+  "truth_item_id": 281,
+  "query": {
+   "description": "I lost my black mobile. It has a flip case with space for cards and a neck strap tied to it.",
+   "category_id": 1,
+   "color": "black",
+   "brand": null,
+   "location_id": 1,
+   "lost_at": "2026-06-29T16:27:10.708Z"
+  }
+ },
+ {
+  "id": 93,
+  "truth_item_id": 463,
+  "query": {
+   "description": "Missing: gray bag. A teddy bear hanging from the zip. Last seen near Girls Hostel Block B.",
+   "category_id": 3,
+   "color": "gray",
+   "brand": null,
+   "location_id": 5,
+   "lost_at": "2026-08-16T17:49:34.878Z"
+  }
+ },
+ {
+  "id": 94,
+  "truth_item_id": 526,
+  "query": {
+   "description": "I lost my blue shades. It has a case with a cloth along with it. Last seen near Phoenix Mall - Food Court.",
+   "category_id": 12,
+   "color": "blue",
+   "brand": null,
+   "location_id": 15,
+   "lost_at": "2026-10-09T06:41:30.273Z"
+  }
+ },
+ {
+  "id": 95,
+  "truth_item_id": 879,
+  "query": {
+   "description": "Looking for my red Oppo phone - a flip case with space for cards.",
+   "category_id": 1,
+   "color": "red",
+   "brand": "Oppo",
+   "location_id": 11,
+   "lost_at": "2026-06-16T03:00:32.643Z"
+  }
+ },
+ {
+  "id": 96,
+  "truth_item_id": 304,
+  "query": {
+   "description": "I lost my gray American Tourister backpack. It has the front pocket zipper is broken and a worn-out name label.",
+   "category_id": 3,
+   "color": null,
+   "brand": "American Tourister",
+   "location_id": null,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 97,
+  "truth_item_id": 713,
+  "query": {
+   "description": "Please help, my earphones is gone. The case is scratched. Last seen near Office Reception - Koramangala.",
+   "category_id": 6,
+   "color": "blue",
+   "brand": "Samsung",
+   "location_id": 13,
+   "lost_at": "2026-06-25T10:37:47.406Z"
+  }
+ },
+ {
+  "id": 98,
+  "truth_item_id": 408,
+  "query": {
+   "description": "Missing: blue purse. Frayed along the fold.",
+   "category_id": 2,
+   "color": "blue",
+   "brand": null,
+   "location_id": 10,
+   "lost_at": "2026-08-04T07:54:36.761Z"
+  }
+ },
+ {
+  "id": 99,
+  "truth_item_id": 792,
+  "query": {
+   "description": "Looking for my mobile - a finger holder grip at the back. Last seen near BMTC Bus - Route 500D.",
+   "category_id": 1,
+   "color": null,
+   "brand": null,
+   "location_id": 3,
+   "lost_at": "2026-07-05T00:37:47.832Z"
+  }
+ },
+ {
+  "id": 100,
+  "truth_item_id": 439,
+  "query": {
+   "description": "I lost my blue backpack. It has a worn-out name label. Last seen near BMTC Bus - Route 500D.",
+   "category_id": 3,
+   "color": null,
+   "brand": null,
+   "location_id": 3,
+   "lost_at": "2026-10-06T03:56:18.990Z"
+  }
+ },
+ {
+  "id": 101,
+  "truth_item_id": 5,
+  "query": {
+   "description": "Please help, my wristwatch is gone. A letter carved behind.",
+   "category_id": 9,
+   "color": "silver",
+   "brand": null,
+   "location_id": 12,
+   "lost_at": "2026-09-05T08:50:52.888Z"
+  }
+ },
+ {
+  "id": 102,
+  "truth_item_id": 853,
+  "query": {
+   "description": "Missing: Vivo cellphone. A flip case with space for cards and a clear rubber cover. Last seen near Cab - Airport Route.",
+   "category_id": 1,
+   "color": null,
+   "brand": "Vivo",
+   "location_id": null,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 103,
+  "truth_item_id": 669,
+  "query": {
+   "description": "Missing: red Tommy Hilfiger wallet. A small photo in the window slot and frayed along the fold. Last seen near Tech Park Cafeteria - Whitefield.",
+   "category_id": 2,
+   "color": "red",
+   "brand": "Tommy Hilfiger",
+   "location_id": 12,
+   "lost_at": "2026-07-25T14:03:49.664Z"
+  }
+ },
+ {
+  "id": 104,
+  "truth_item_id": 673,
+  "query": {
+   "description": "I lost my white bank card. It has a clip holder.",
+   "category_id": 7,
+   "color": "white",
+   "brand": null,
+   "location_id": 8,
+   "lost_at": "2026-10-09T08:11:56.250Z"
+  }
+ },
+ {
+  "id": 105,
+  "truth_item_id": 456,
+  "query": {
+   "description": "Please help, my brolly is gone. A velcro tie and flowers printed on it.",
+   "category_id": 11,
+   "color": "blue",
+   "brand": null,
+   "location_id": 11,
+   "lost_at": "2026-10-09T03:05:47.612Z"
+  }
+ },
+ {
+  "id": 106,
+  "truth_item_id": 106,
+  "query": {
+   "description": "Please help, my car key is gone. A heart shaped charm. Last seen near College Main Library.",
+   "category_id": 4,
+   "color": "silver",
+   "brand": null,
+   "location_id": 7,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 107,
+  "truth_item_id": 784,
+  "query": {
+   "description": "I lost my navy Safari bag. It has a side holder for a water bottle.",
+   "category_id": 3,
+   "color": "navy",
+   "brand": "Safari",
+   "location_id": null,
+   "lost_at": "2026-10-02T06:18:53.866Z"
+  }
+ },
+ {
+  "id": 108,
+  "truth_item_id": 664,
+  "query": {
+   "description": "Please help, my specs is gone. The left glass is scratched and anti glare lenses.",
+   "category_id": 12,
+   "color": null,
+   "brand": null,
+   "location_id": 15,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 109,
+  "truth_item_id": 114,
+  "query": {
+   "description": "Looking for my white driving license - a blue neck strap and plastic laminated. Last seen near College CSE Block.",
+   "category_id": 7,
+   "color": null,
+   "brand": null,
+   "location_id": 8,
+   "lost_at": "2026-07-22T13:03:22.106Z"
+  }
+ },
+ {
+  "id": 110,
+  "truth_item_id": 639,
+  "query": {
+   "description": "Looking for my pink bottle - my name in marker pen and some stickers on the body. Last seen near Boys Hostel Block A.",
+   "category_id": 10,
+   "color": "pink",
+   "brand": null,
+   "location_id": 10,
+   "lost_at": "2026-10-10T06:24:43.348Z"
+  }
+ },
+ {
+  "id": 111,
+  "truth_item_id": 864,
+  "query": {
+   "description": "Missing: water bottle. A rope handle on the lid and a sports cap lid. Last seen near Namma Metro - Indiranagar.",
+   "category_id": 10,
+   "color": null,
+   "brand": null,
+   "location_id": 6,
+   "lost_at": "2026-10-09T12:31:14.844Z"
+  }
+ },
+ {
+  "id": 112,
+  "truth_item_id": 780,
+  "query": {
+   "description": "Please help, my headphones is gone. A pink rubber case and the wire is tangled. Last seen near Girls Hostel Block B.",
+   "category_id": 6,
+   "color": "black",
+   "brand": "Sony",
+   "location_id": null,
+   "lost_at": "2026-07-27T15:35:02.439Z"
+  }
+ },
+ {
+  "id": 113,
+  "truth_item_id": 389,
+  "query": {
+   "description": "Missing: Puma purse. A coin pouch with a zip. Last seen near Cubbon Park.",
+   "category_id": 2,
+   "color": null,
+   "brand": "Puma",
+   "location_id": 14,
+   "lost_at": "2026-09-13T13:50:19.498Z"
+  }
+ },
+ {
+  "id": 114,
+  "truth_item_id": 668,
+  "query": {
+   "description": "I lost my gray American Tourister sling. It has books and stationery in it. Last seen near College Canteen.",
+   "category_id": 3,
+   "color": "gray",
+   "brand": "American Tourister",
+   "location_id": 9,
+   "lost_at": "2026-07-26T13:45:52.966Z"
+  }
+ },
+ {
+  "id": 115,
+  "truth_item_id": 144,
+  "query": {
+   "description": "Missing: red Samsung headset. The wire is tangled and it is the neckband type. Last seen near College Main Library.",
+   "category_id": 6,
+   "color": "red",
+   "brand": "Samsung",
+   "location_id": 7,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 116,
+  "truth_item_id": 412,
+  "query": {
+   "description": "Missing: Puma wallet. Frayed along the fold. Last seen near Namma Metro - MG Road.",
+   "category_id": 2,
+   "color": null,
+   "brand": "Puma",
+   "location_id": 5,
+   "lost_at": "2026-09-18T12:53:53.679Z"
+  }
+ },
+ {
+  "id": 117,
+  "truth_item_id": 441,
+  "query": {
+   "description": "Missing: red headset. A pink rubber case.",
+   "category_id": 6,
+   "color": "red",
+   "brand": null,
+   "location_id": 8,
+   "lost_at": "2026-10-10T16:50:39.948Z"
+  }
+ },
+ {
+  "id": 118,
+  "truth_item_id": 718,
+  "query": {
+   "description": "Please help, my case is gone. The case is scratched.",
+   "category_id": 6,
+   "color": null,
+   "brand": "JBL",
+   "location_id": 3,
+   "lost_at": null
+  }
+ },
+ {
+  "id": 119,
+  "truth_item_id": 416,
+  "query": {
+   "description": "Please help, my phone is gone. A flip case with space for cards. Last seen near BMTC Bus - Route 500D.",
+   "category_id": 1,
+   "color": "white",
+   "brand": null,
+   "location_id": 3,
+   "lost_at": "2026-06-14T07:36:18.124Z"
+  }
+ },
+ {
+  "id": 120,
+  "truth_item_id": 277,
+  "query": {
+   "description": "I lost my red boAt headset. It has the wire is tangled.",
+   "category_id": 6,
+   "color": "red",
+   "brand": "boAt",
+   "location_id": 7,
+   "lost_at": "2026-10-10T20:58:37.287Z"
+  }
+ }
+]

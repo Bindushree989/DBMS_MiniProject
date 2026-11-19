@@ -1,0 +1,28 @@
+{
+  "name": "back2you",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Back2You - Lost item return & ownership management system (MySQL + vector search + Next.js)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "db:reset": "node scripts/db-setup.js",
+    "db:seed": "node scripts/seed.js",
+    "test": "node tests/db.test.js",
+    "test:smoke": "node tests/smoke-journey.mjs"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.0.0",
+    "jose": "^6.0.0",
+    "mysql2": "^3.14.0",
+    "next": "^15.5.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^4.0.0"
+  },
+  "optionalDependencies": {
+    "@huggingface/transformers": "^3.0.0"
+  }
+}
